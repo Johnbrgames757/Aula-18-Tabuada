@@ -1,0 +1,44 @@
+@font-face {
+    font-family: isu;
+    src: url(Median.otf);
+}
+
+@font-face {
+    font-family: plr;
+    src: url(LTSuperior-ExtraBold.otf);
+}
+
+body{
+    background-image: url(https://img.freepik.com/vetores-premium/padrao-perfeito-com-material-escolar-em-fundo-branco-fundo-para-elementos-da-escola_460582-706.jpg);
+    font-family: isu;
+    text-align: center;
+    font-size: xx-large;
+    
+}
+
+table{
+    margin: auto;
+    text-align: center;
+    background-color: rgb(247, 104, 104);   
+}
+
+input{
+    border-radius: 100px;
+    padding: 20px;
+    font-size: medium;
+    font-family: plr;
+    background-color: rgb(170, 245, 239);
+}
+
+button{
+    border-radius: 100px;
+    padding: 20px;
+    font-size: large;
+    font-family: plr;
+    background-color: rgb(173, 252, 248);
+}
+
+footer{
+    margin-top: 150px;
+    font-family: plr;
+}
